@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+My new personal website 
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Next want to update some features like services and a resume for downloading
